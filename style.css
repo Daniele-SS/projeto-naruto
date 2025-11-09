@@ -13,8 +13,8 @@ body {
 }
 
 img {
-    width: 330px;
-    height: 330px;
+    width: 300px;
+    height: 300px;
     margin: 150px;
     transition-property: all;
     transition-duration: 1s, 0.5s;
