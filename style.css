@@ -6,15 +6,15 @@
 
 body {
     height: 100vh;
-    background-color: yellow;
+    background-color: #FFFF00;
     display: flex;
     align-items: center;
     flex-direction: column;
 }
 
 img {
-    width: 350px;
-    height: 350px;
+    width: 330px;
+    height: 330px;
     margin: 150px;
     transition-property: all;
     transition-duration: 1s, 0.5s;
@@ -38,7 +38,7 @@ h1 {
 }
 
 h1:hover {
-    color: orange;
+    color: #FE7A35;
 }
 
 h2 {
@@ -50,10 +50,82 @@ h2 {
 }
 
 h2:hover {
-    color: orange;
+    color: #FE7A35;
 }
 
 div {
     display: flex;
     justify-content: column;
+}
+
+.naruto figcaption {
+    font-size: 50px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.hinata figcaption {
+    font-size: 50px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.sakura figcaption {
+    font-size: 50px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.sasuke figcaption {
+    font-size: 50px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.kakashi figcaption {
+    font-size: 50px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.rock figcaption {
+    font-size: 50px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.shikamaru figcaption {
+    font-size: 50px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.nagato figcaption {
+    font-size: 50px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.itachi figcaption {
+    font-size: 50px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.madara figcaption {
+    font-size: 50px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.jiraiya figcaption {
+    font-size: 50px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.minato figcaption {
+    font-size: 50px;
+    font-weight: 600;
+    text-align: center;
 }
